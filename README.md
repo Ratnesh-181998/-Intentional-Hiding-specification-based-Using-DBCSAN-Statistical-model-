@@ -85,3 +85,20 @@ misplaced product listings.
 4. Enhanced Monitoring: Provides marketplace administrators with a tool to monitor and review 
 flagged product listings for policy violations or errors.
 
+• Integration & API: Developed and integrated FlaskAPI.
+
+Solution has been deployed on server. It works for product category ID. Currently created preliminary list of mis
+classification across all categories in Q3 and Q3 quadrants. In process of refining the list by leveraging Market 
+Intelligence module. Post which, category owners will be involved to help assess intent prior to codifying the 
+logic.  
+Input:  Solution requires input of a Category ID or list of category IDs. 
+
+![ih31](https://github.com/user-attachments/assets/f8b42a64-27d8-4b97-add0-26abf383f830)
+
+
+Output: The report will be generated and link of report will be showcased
+
+![ih12](https://github.com/user-attachments/assets/1b77777e-29d7-4cca-8ae2-9d791f7c4f49)
+
+
+
